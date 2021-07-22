@@ -1,6 +1,6 @@
 # Pablo Moreira Marques
 
-👋 Hello everyone, I’m Pablo, Enthusiastic in scalable technologies, AI and Cloud Computing.\
+👋 Hello everyone, I’m Pablo, enthusiastic in scalable technologies, AI and Cloud Computing.\
 I've degree in Computer Engineering and working as Cloud Engineering.
 
 📫 How to reach me ...\
